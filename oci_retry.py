@@ -17,7 +17,7 @@ UBUNTU_VERSION = "24.04"  # OS for the new instance: "24.04" (default), "26.04" 
 ARM_OCPUS = 2
 ARM_MEMORY_IN_GBS = 12
 BOOT_VOLUME_SIZE_IN_GBS = 100
-RETRY_INTERVAL = 90  # seconds
+RETRY_INTERVAL = 115  # seconds
 # ────────────────────────────────────────────────────────
 
 # ─── OCI Authentication ──────────────────────────────────
